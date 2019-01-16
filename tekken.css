@@ -6,7 +6,7 @@ PETER'S CONFIG. https://gamepadviewer.com/?p=1&s=7&map=%7B%22mapping%22%3A%5B%7B
 
 /*I should really host these files somewhere other than Dropbox...
 It would've been nice to have used svgz vectors for the graphics but Dropbox can't direct link them like it can with pngs.*/
-.controller.fight-stick { background: url(https://dl.dropboxusercontent.com/s/gzi83rhqh7rofyf/base_4.png) center no-repeat; }
+.controller.fight-stick { background: url(https://i.imgur.com/wXMG2jB.png) center no-repeat; }
 .fight-stick.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
 
 /*RB = X + B config*/

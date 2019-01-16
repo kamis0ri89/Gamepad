@@ -48,7 +48,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     width: 784px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(ps3-assets/base-disconnect.png);
+    background: url(https://i.imgur.com/wXMG2jB.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
@@ -113,7 +113,7 @@ PS3 controller but it'd be pointless for me to change the HTML for
 something as pedantic as a name. */
 .custom .quadrant{
     position: absolute;
-    background: url(ps3-assets/player-n.png);
+    background: url(https://i.imgur.com/wXMG2jB.png);
     height: 17px;
     width: 111px;
     top: 140px;
@@ -145,7 +145,7 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
-    background: url(ps3-assets/menus.png);
+    background: url(https://i.imgur.com/wXMG2jB.png);
     width: 34px;
     height: 19px;
 }
